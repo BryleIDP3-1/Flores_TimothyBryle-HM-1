@@ -2,7 +2,11 @@
     display: none;
 }
 
-#greytext
+/* #badge {
+    width: 100px;
+} */
+
+/* #greytext
 {
     transition: all 0.5s ease;
     transform-origin: center;
@@ -15,4 +19,5 @@
 #badge:hover #greytext {
     fill: white;
     transform:  rotate(130deg);
-}
+} */
+
