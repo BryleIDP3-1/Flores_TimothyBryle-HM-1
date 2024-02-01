@@ -21,7 +21,8 @@ Open index.html in the browser of your choice.
 ## History :clock8:
 
 **Created on January 29, 2023**
-**Created on January 31, 2023**
+
+**Finished on January 31, 2023**
 
 ## Credits :writing_hand:
 Published by:
